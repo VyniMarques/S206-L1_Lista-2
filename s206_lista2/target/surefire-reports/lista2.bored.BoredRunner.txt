@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: lista2.bored.BoredRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.584 s <<< FAILURE! - in lista2.bored.BoredRunner
+testBored  Time elapsed: 0.582 s  <<< ERROR!
+java.lang.NumberFormatException: For input string: "6.feature"
+
