@@ -6,3 +6,9 @@ Dupla:
 Vinicius - 73
 
 Caio Lima - 72
+
+API utilizada:
+https://www.boredapi.com/
+
+Executar um teste a partir do Runner ou suíte:
+mvn test –Dtest=StarWarsRunner
